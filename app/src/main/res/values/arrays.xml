@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="names">
+        <item>Veronica Dunlap</item>
+        <item>Alan Black</item>
+        <item>Zachary Kidd</item>
+        <item>Braiden Hanson</item>
+        <item>Izabella Buchanan</item>
+        <item>Jenny Dickerson</item>
+        <item>Cale Hull</item>
+        <item>Justice Gutierrez</item>
+        <item>Cole Curtis</item>
+        <item>Leonel Stewart</item>
+        <item>Casey Vincent</item>
+    </string-array>
+
+    <string-array name="sentences">
+        <item>It was always dangerous to drive with him since he insisted the safety cones were a slalom course.</item>
+        <item>Im a living furnace</item>
+        <item>Plans for this weekend include turning wine into water</item>
+        <item>He set out for a short walk, but now all he could see were mangroves and water were for miles.</item>
+        <item>He didnt heed the warning and it had turned out surprisingly well.</item>
+        <item>The efficiency we have at removing trash has made creating trash more acceptable.</item>
+        <item>Cats are good pets, for they are clean and are not noisy.</item>
+        <item>It had been sixteen days since the zombies first attacked.</item>
+        <item>Cats are good pets, for they are clean and are not noisy.</item>
+        <item>Standing on ones head at job interviews forms a lasting impression.</item>
+        <item>It had been sixteen days since the zombies first attacked.</item>
+    </string-array>
+</resources>
